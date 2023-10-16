@@ -75,6 +75,8 @@ footer {
   margin-bottom: 24px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  font-weight: 700;
+  color: var(--color-gray-700);
 }
 
 .links li {
@@ -87,6 +89,8 @@ footer {
 
 .links a {
   text-decoration: none;
+  font-weight: 500;
+  color: var(--color-gray-100);
 }
 
 main {
